@@ -1,3 +1,5 @@
-.Avatar h1 {
-  color: red;
+.profile-avatar {
+  border-radius: 50%;
+  border: 3px solid #0074d9;
+  background-color: #0074d9;
 }
